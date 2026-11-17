@@ -1,0 +1,75 @@
+180 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.10
+181 INFO: Python: 3.12.10
+211 INFO: Platform: Windows-11-10.0.26200-SP0
+213 INFO: Python environment: C:\Users\ar12d\AppData\Local\Programs\Python\Python312
+214 INFO: wrote C:\Users\ar12d\Desktop\AGENTS\rat\client.spec
+216 INFO: Removing temporary files and cleaning cache in C:\Users\ar12d\AppData\Local\pyinstaller
+229 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\ar12d\\Desktop\\AGENTS\\rat',
+ 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\python312.zip',
+ 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\DLLs',
+ 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib',
+ 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312',
+ 'C:\\Users\\ar12d\\AppData\\Roaming\\Python\\Python312\\site-packages',
+ 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages',
+ 'C:\\Users\\ar12d\\Desktop\\AGENTS\\rat']
+570 INFO: checking Analysis
+570 INFO: Building Analysis because Analysis-00.toc is non existent
+570 INFO: Looking for Python shared library...
+570 INFO: Using Python shared library: C:\Users\ar12d\AppData\Local\Programs\Python\Python312\python312.dll
+570 INFO: Running Analysis Analysis-00.toc
+570 INFO: Target bytecode optimization level: 0
+570 INFO: Initializing module dependency graph...
+574 INFO: Initializing module graph hook caches...
+586 INFO: Analyzing modules for base_library.zip ...
+1724 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+2271 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+3288 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+4567 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+5227 INFO: Caching module dependency graph...
+5279 INFO: Analyzing C:\Users\ar12d\Desktop\AGENTS\rat\client.py
+5381 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+5415 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+5478 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+5495 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+5498 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+5866 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+5878 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+6024 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+6452 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+6480 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+6718 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+7040 INFO: Processing module hooks (post-graph stage)...
+7439 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+7911 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+7928 INFO: Performing binary vs. data reclassification (927 entries)
+8141 INFO: Looking for ctypes DLLs
+8165 INFO: Analyzing run-time hooks ...
+8167 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+8170 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\ar12d\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+8211 INFO: Creating base_library.zip...
+8258 INFO: Looking for dynamic libraries
+8438 INFO: Extra DLL search directories (AddDllDirectory): []
+8438 INFO: Extra DLL search directories (PATH): []
+8815 INFO: Warnings written to C:\Users\ar12d\Desktop\AGENTS\rat\build\client\warn-client.txt
+8857 INFO: Graph cross-reference written to C:\Users\ar12d\Desktop\AGENTS\rat\build\client\xref-client.html
+8928 INFO: checking PYZ
+8929 INFO: Building PYZ because PYZ-00.toc is non existent
+8929 INFO: Building PYZ (ZlibArchive) C:\Users\ar12d\Desktop\AGENTS\rat\build\client\PYZ-00.pyz
+9328 INFO: Building PYZ (ZlibArchive) C:\Users\ar12d\Desktop\AGENTS\rat\build\client\PYZ-00.pyz completed successfully.
+9376 INFO: checking PKG
+9376 INFO: Building PKG because PKG-00.toc is non existent
+9376 INFO: Building PKG (CArchive) client.pkg
+15800 INFO: Building PKG (CArchive) client.pkg completed successfully.
+15830 INFO: Bootloader C:\Users\ar12d\AppData\Local\Programs\Python\Python312\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+15830 INFO: checking EXE
+15830 INFO: Building EXE because EXE-00.toc is non existent
+15830 INFO: Building EXE from EXE-00.toc
+15833 INFO: Copying bootloader EXE to C:\Users\ar12d\Desktop\AGENTS\rat\dist\client.exe
+15896 INFO: Copying icon to EXE
+15955 INFO: Copying 0 resources to EXE
+15955 INFO: Embedding manifest in EXE
+16011 INFO: Appending PKG archive to EXE
+16115 INFO: Fixing EXE headers
+16500 INFO: Building EXE from EXE-00.toc completed successfully.
+16536 INFO: Build complete! The results are available in: C:\Users\ar12d\Desktop\AGENTS\rat\dist
